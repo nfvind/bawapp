@@ -7,7 +7,12 @@ Man kan se om resultatet er accepteret ved, at siden enten viser grønt eller r�
 
 reload siden for at få en omang nye tal.
 
-herunder er en autogenerede beskrivelse af, hvilke kommandoer man kan køre for, at de virker. 
+herunder er en autogenerede beskrivelse af, hvilke kommandoer man kan køre for, at de virker.
+
+## Krav
+
+Du skal have node (npm) og Yarn for at kører dette projekt.
+se: https://create-react-app.dev/docs/getting-started/   
 
 ## Available Scripts
 
